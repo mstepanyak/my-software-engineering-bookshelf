@@ -8,6 +8,8 @@ I hope it can be a source of inspiration for everyone looking for something inte
 - [Pro C# 7: With .NET and .NET Core](https://www.amazon.de/dp/1484230175) by **Andrew Troelsen**, **Philip Japikse**, 2017
 - [C# 8.0 and .NET Core 3.0 – Modern Cross-Platform Development](https://www.amazon.de/dp/B07YLXFGBS) by **Mark J. Price**, 2019
 - [C# 9 and .NET 5 – Modern Cross-Platform Development](https://www.amazon.com/NET-Cross-Platform-Development-intelligent-Framework/dp/180056810X) by **Mark J. Price**, 2020
+- [Kubernetes in Action](https://www.amazon.com/Kubernetes-Action-Marko-Luksa/dp/1617293725) by **Marko Luksa**, 2018
+- [Kubernetes Patterns: Reusable Elements for Designing Cloud-Native Applications]() by **Bilgin Ibryam**, **Roland Huß**, 2019
 - [Software Architecture with C# 10 and .NET 6](https://www.amazon.com/Software-Architecture-NET-solutions-microservices-ebook/dp/B09QKXPCWN/) by **Gabriel Baptista**, **Francesco Abbruzzese**, 2022
 - [Fundamentals of Software Architecture: An Engineering Approach](https://www.amazon.com/Fundamentals-Software-Architecture-Engineering-Approach-ebook/dp/B0849MPK73)  by **Mark Richards**, **Neal Ford**, 2020
 - [Software Architecture: The Hard Parts](https://www.amazon.com/Software-Architecture-Parts-Neal-Ford-ebook/dp/B09H2H5QKC) by **Mark Richards**, **Neal Ford**, 2021
