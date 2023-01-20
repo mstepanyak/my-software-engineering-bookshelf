@@ -22,6 +22,11 @@ I hope it can be a source of inspiration for everyone looking for something inte
 - [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321) by **Martin Kleppmann**, 2017
 - [Technology Strategy Patterns: Architecture as Strategy](https://www.amazon.com/Technology-Strategy-Patterns-Architecture-ebook/dp/B07JJNSP92) by **Eben Hewitt**, 2018
 - [Refactoring: Improving the Design of Existing Code](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599) by **Martin Fowler**, 2018
+- [The TOGAF Standard, A Pocket Guide](https://www.amazon.com/TOGAF-Standard-Pocket-Guide/dp/9401808562) by **Van Haren Publishing**, 2022
+- [The TOGAF Standard, 10th Edition](https://www.amazon.com/TOGAF%C2%AE-Standard-10th-Architecture-Development/dp/9401808627) by **The Open Group**, 2022
+- [Practical Model-Driven Enterprise Architecture](https://www.amazon.com/Practical-Model-Driven-Enterprise-Architecture-architecture-ebook/dp/B09CQ51S3L) by **Mudar Bahri**, **Joe Williams**, 2022
+- [The IT4IT™ Standard, Version 3.0](https://www.amazon.com/IT4ITTM-Standard-Version-3-0-Architecture/dp/9401809402) by **The Open Group**, 2022
+- [ITIL Foundation, ITIL (ITIL 4 Foundation)](https://www.amazon.com/ITIL-foundation-Axelos/dp/0113316070) by **The Stationery Office**, 2022
 
 ## Contributing 
 This is my personal learning space. I keep it for my enjoyment, if you have any suggestions for improvement please feel free to open a pull request.
