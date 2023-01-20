@@ -5,7 +5,6 @@ This is a collection of books, papers, list of papers, blog or blog posts, artic
 I hope it can be a source of inspiration for everyone looking for something interesting to read!
 
 - [Pro .NET Memory Management: For Better Code, Performance, and Scalability](https://www.amazon.com/Pro-NET-Memory-Management-Performance/dp/148424026X) by **Konrad Kokosa**, 2018
-
 - [C# 7.0 in a Nutshell](https://www.amazon.de/dp/1491987650) by **Joseph Albahari**, **Ben Albahari**, 2017
 - [Pro C# 7: With .NET and .NET Core](https://www.amazon.de/dp/1484230175) by **Andrew Troelsen**, **Philip Japikse**, 2017
 - [C# 8.0 and .NET Core 3.0 – Modern Cross-Platform Development](https://www.amazon.de/dp/B07YLXFGBS) by **Mark J. Price**, 2019
