@@ -20,7 +20,7 @@ I hope it can be a source of inspiration for everyone looking for something inte
 14. [Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services](https://www.amazon.com/Designing-Distributed-Systems-Patterns-Paradigms-ebook/dp/B079YTM4FC) by <b>Brendan Burns</b>, 2018
 15. [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software-ebook/dp/B00794TAUG) by <b>Evans Eric</b>, 2003
 16. [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321) by <b>Martin Kleppmann</b>, 2017
-17. [Refactoring: Improving the Design of Existing Code](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599) by <b>Martin Fowler</b> 2018
+17. [Refactoring: Improving the Design of Existing Code](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599) by <b>Martin Fowler</b>, 2018
 18. [Technology Strategy Patterns: Architecture as Strategy](https://www.amazon.com/Technology-Strategy-Patterns-Architecture-ebook/dp/B07JJNSP92) by <b>Eben Hewitt</b>, 2018
 
 Contributing
