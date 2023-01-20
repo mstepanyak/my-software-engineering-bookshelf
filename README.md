@@ -1,7 +1,6 @@
 # My software engineering bookshelf
 
-Keeping up to date and constantly improving is part of the job of a software engineer.
-This is a collection of books, papers, list of papers, blog or blog posts, articles that I've read/I'm going to read.
+Here is a bookshelf that contains books that help me in being a better architect or software engineer, by learning new skills related to software development, leadership, business, and personal development. Keeping up to date and constantly improving is part of the job of software engineer.
 I hope it can be a source of inspiration for everyone looking for something interesting to read!
 
 - [Pro .NET Memory Management: For Better Code, Performance, and Scalability](https://www.amazon.com/Pro-NET-Memory-Management-Performance/dp/148424026X) by **Konrad Kokosa**, 2018
