@@ -1,6 +1,7 @@
 # My software engineering bookshelf
 
-Collection of books, papers, list of papers, blog or blog posts, articles that I've read/I'm going to read/I would remember that they exist.
+Keeping up to date and constantly improving is part of the job of a software engineer.
+Here is my collection of books, papers, list of papers, blog or blog posts, articles that I've read/I'm going to read/I would remember that they exist.
 
 1. [Pro .NET Performance: Optimize Your C# Applications (Expert's Voice in .NET)](https://www.amazon.com/Pro-NET-Performance-Optimize-Applications/dp/1430244585)
 2. [C# 8.0 and .NET Core 3.0 – Modern Cross-Platform Development](https://www.amazon.de/dp/B07YLXFGBS)
