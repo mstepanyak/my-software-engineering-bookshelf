@@ -16,6 +16,7 @@ I hope it can be a source of inspiration for everyone looking for something inte
 - [Building Microservices](https://www.amazon.com/Building-Microservices-Sam-Newman-ebook/dp/B09B5L4NVT) by **Sam Newman**, 2021
 - [Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith](https://www.amazon.com/Monolith-Microservices-Evolutionary-Patterns-Transform-ebook/dp/B081TKSSNN) by **Sam Newman**, 2019
 - [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure-ebook/dp/B075LRM681) by **Robert C. Martin Series**, 2017
+- [Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions](https://www.amazon.com/Enterprise-Integration-Patterns-Designing-Deploying/dp/0321200683) by **Gregor Hohpe**, **Bobby Woolf**, 2003
 - [Patterns of Enterprise Application Architecture](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Addison-Wesley-ebook/dp/B008OHVDFM) by **Fowler Martin**, 2012
 - [Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services](https://www.amazon.com/Designing-Distributed-Systems-Patterns-Paradigms-ebook/dp/B079YTM4FC) by **Brendan Burns**, 2018
 - [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software-ebook/dp/B00794TAUG) by **Evans Eric**, 2003
@@ -29,7 +30,8 @@ I hope it can be a source of inspiration for everyone looking for something inte
 - [ITIL Foundation, ITIL (ITIL 4 Foundation)](https://www.amazon.com/ITIL-foundation-Axelos/dp/0113316070) by **The Stationery Office**, 2022
 
 ## Contributing 
-This is my personal learning space. I keep it for my enjoyment, if you have any suggestions for improvement please feel free to open a pull request.
+This is my personal learning space. <br/>
+And I keep it for my enjoyment, if you have any suggestions for improvement please feel free to open a pull request.
 <br />
 Thanks!
 
