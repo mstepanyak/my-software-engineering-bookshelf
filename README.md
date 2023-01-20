@@ -3,6 +3,7 @@
 Here is a bookshelf that contains books that help me in being a better architect or software engineer, by learning new skills related to software development, leadership, business, and personal development. Keeping up to date and constantly improving is part of the job of software engineer.
 I hope it can be a source of inspiration for everyone looking for something interesting to read!
 
+- [CLR via C# (Developer Reference) 4th Edition](https://www.amazon.com/CLR-via-4th-Developer-Reference/dp/0735667454) by **Jeffrey Richter**, 2012
 - [Pro .NET Memory Management: For Better Code, Performance, and Scalability](https://www.amazon.com/Pro-NET-Memory-Management-Performance/dp/148424026X) by **Konrad Kokosa**, 2018
 - [C# 7.0 in a Nutshell](https://www.amazon.de/dp/1491987650) by **Joseph Albahari**, **Ben Albahari**, 2017
 - [Pro C# 7: With .NET and .NET Core](https://www.amazon.de/dp/1484230175) by **Andrew Troelsen**, **Philip Japikse**, 2017
