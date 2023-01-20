@@ -23,6 +23,7 @@ I hope it can be a source of inspiration for everyone looking for something inte
 - [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software-ebook/dp/B00794TAUG) by **Evans Eric**, 2003
 - [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321) by **Martin Kleppmann**, 2017
 - [Technology Strategy Patterns: Architecture as Strategy](https://www.amazon.com/Technology-Strategy-Patterns-Architecture-ebook/dp/B07JJNSP92) by **Eben Hewitt**, 2018
+- [Code Complete 2](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670/) by **Steve McConnell**, 2004
 - [Refactoring: Improving the Design of Existing Code](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599) by **Martin Fowler**, 2018
 - [The TOGAF Standard, A Pocket Guide](https://www.amazon.com/TOGAF-Standard-Pocket-Guide/dp/9401808562) by **Van Haren Publishing**, 2022
 - [The TOGAF Standard, 10th Edition](https://www.amazon.com/TOGAF%C2%AE-Standard-10th-Architecture-Development/dp/9401808627) by **The Open Group**, 2022
