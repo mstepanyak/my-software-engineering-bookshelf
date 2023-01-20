@@ -31,10 +31,6 @@ I hope it can be a source of inspiration for everyone looking for something inte
 - [The IT4IT™ Standard, Version 3.0](https://www.amazon.com/IT4ITTM-Standard-Version-3-0-Architecture/dp/9401809402) by **The Open Group**, 2022
 - [ITIL Foundation, ITIL (ITIL 4 Foundation)](https://www.amazon.com/ITIL-foundation-Axelos/dp/0113316070) by **The Stationery Office**, 2022
 
-## Contributing 
-This is my personal learning space. <br/>
-And I keep it for my enjoyment, if you have any suggestions for improvement please feel free to open a pull request.
-<br />
-Thanks!
+
 
 
