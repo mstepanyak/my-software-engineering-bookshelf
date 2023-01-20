@@ -14,24 +14,14 @@ I hope it can be a source of inspiration for everyone looking for something inte
 8. [Software Architecture: The Hard Parts](https://www.amazon.com/Software-Architecture-Parts-Neal-Ford-ebook/dp/B09H2H5QKC) by <b>Mark Richards</b>, <b>Neal Ford</b>, 2021
 9. [Building Evolutionary Architectures](https://www.amazon.com/Building-Evolutionary-Architectures-Support-Constant/dp/1491986360) by <b>Neal Ford</b>, <b>Rebecca Parsons</b>, <b>Patrick Kua</b>, 2017
 10. [Building Microservices](https://www.amazon.com/Building-Microservices-Sam-Newman-ebook/dp/B09B5L4NVT) by <b>Sam Newman</b>, 2021
-
-[Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith by Sam Newman](https://www.amazon.com/Monolith-Microservices-Evolutionary-Patterns-Transform-ebook/dp/B081TKSSNN)
-
-[Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series)](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure-ebook/dp/B075LRM681)
-
-[Patterns of Enterprise Application Architecture (Addison-Wesley Signature Series (Fowler))](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Addison-Wesley-ebook/dp/B008OHVDFM)
-
-[Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services](https://www.amazon.com/Designing-Distributed-Systems-Patterns-Paradigms-ebook/dp/B079YTM4FC)
-
-[Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software-ebook/dp/B00794TAUG)
-
-
-Design
-[Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
-
-[Refactoring: Improving the Design of Existing Code](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599)
-
-[Technology Strategy Patterns: Architecture as Strategy](https://www.amazon.com/Technology-Strategy-Patterns-Architecture-ebook/dp/B07JJNSP92)
+11. [Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith](https://www.amazon.com/Monolith-Microservices-Evolutionary-Patterns-Transform-ebook/dp/B081TKSSNN) by <b>Sam Newman</b>, 2019
+12. [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure-ebook/dp/B075LRM681) by <b>Robert C. Martin Series</b>, 2017
+13. [Patterns of Enterprise Application Architecture](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Addison-Wesley-ebook/dp/B008OHVDFM) by <b>Fowler Martin</b>, 2012
+14. [Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services](https://www.amazon.com/Designing-Distributed-Systems-Patterns-Paradigms-ebook/dp/B079YTM4FC) by <b>Brendan Burns</b>, 2018
+15. [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software-ebook/dp/B00794TAUG) by <b>Evans Eric</b>, 2003
+16. [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321) by <b>Martin Kleppmann</b>, 2017
+17. [Refactoring: Improving the Design of Existing Code](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599) by <b>Martin Fowler</b> 2018
+18. [Technology Strategy Patterns: Architecture as Strategy](https://www.amazon.com/Technology-Strategy-Patterns-Architecture-ebook/dp/B07JJNSP92) by <b>Eben Hewitt</b>, 2018
 
 Contributing
 This is my personal learning space. I keep it for my enjoyment, if you have any suggestions for improvement please feel free to open a pull request.
