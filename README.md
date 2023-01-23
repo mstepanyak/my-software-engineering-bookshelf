@@ -23,6 +23,8 @@ I hope it can be a source of inspiration for everyone looking for something inte
 - [Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services](https://www.amazon.com/Designing-Distributed-Systems-Patterns-Paradigms-ebook/dp/B079YTM4FC) by **Brendan Burns**, 2018
 - [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software-ebook/dp/B00794TAUG) by **Evans Eric**, 2003
 - [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321) by **Martin Kleppmann**, 2017
+- [Data Mesh: Delivering Data-Driven Value at Scale ](https://www.amazon.com/Data-Mesh-Delivering-Data-Driven-Value/dp/1492092398) by **Zhamak Dehghani**, 2022
+- [Designing Cloud Data Platforms](https://www.amazon.com/Designing-Cloud-Platforms-Danil-Zburivsky/dp/1617296449) by **Danil Zburivsky**, **Lynda Partner**, 2021
 - [Technology Strategy Patterns: Architecture as Strategy](https://www.amazon.com/Technology-Strategy-Patterns-Architecture-ebook/dp/B07JJNSP92) by **Eben Hewitt**, 2018
 - [Code Complete 2](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670/) by **Steve McConnell**, 2004
 - [Refactoring: Improving the Design of Existing Code](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599) by **Martin Fowler**, 2018
